@@ -1,3 +1,5 @@
+[a5_eassayrbetancourt.docx](https://github.com/Ruth536/Hello-World/files/6752028/a5_eassayrbetancourt.docx)
+[a5.txt](https://github.com/Ruth536/Hello-World/files/6752031/a5.txt)
 import csv   #importing required module
 import matplotlib.pyplot as plt# importing required module
 
